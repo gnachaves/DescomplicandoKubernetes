@@ -28,4 +28,3 @@ Principais links da LINUXtips:
 ### ACESSO AO LIVRO:
 
 * [Descomplicando o Kubernetes](https://livro.descomplicandokubernetes.com.br)
-
